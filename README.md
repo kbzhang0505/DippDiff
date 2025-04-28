@@ -1,2 +1,2 @@
 # DippDiff
-DippDiff for Layout-Controllable Textile Digital Printing Pattern Generation
+DippDiff: Box-Guided Multi-Factor Attention Excitation for Textile Digital Printing Pattern Generation
